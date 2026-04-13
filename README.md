@@ -21,5 +21,5 @@ The system allows managing employees and generating payroll with automatic salar
 
 * Frontend: React
 * Backend: Django REST Framework
-* Database: SQLite
+* Database: MySQL
 
