@@ -19,7 +19,7 @@ The system allows managing employees and generating payroll with automatic salar
 
 ## 🛠️ Tech Stack
 
-Frontend: React
-Backend: Django REST Framework
-Database: SQLite
+* Frontend: React
+* Backend: Django REST Framework
+* Database: SQLite
 
